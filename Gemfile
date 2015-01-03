@@ -41,6 +41,9 @@ gem 'spring',        group: :development
 # Use Bootstrap
 gem 'bootstrap-sass'
 
+# Use Devise
+gem 'devise'
+
 group :development, :test do
      gem 'sqlite3'
 end
